@@ -1,2 +1,2 @@
-# PYTHON-WumpusWorld-GoldRush
-Implementing Knowledge-Base-Agent in Python for WumpusWorld-GoldRush
+PYTHON | Implementing Knowledge-Base-Agent for WumpusWorld-GoldRush
+
